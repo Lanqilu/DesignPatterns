@@ -1,0 +1,3 @@
+# Project exclude paths
+/Adapter/target/
+/Iterator/target/
