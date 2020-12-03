@@ -12,6 +12,7 @@
         <module>Iterator</module>
         <module>Adapter</module>
         <module>TemplateMethod</module>
+        <module>FactoryMethod</module>
     </modules>
 
 
